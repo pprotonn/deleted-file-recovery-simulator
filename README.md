@@ -22,3 +22,16 @@ This project simulates how deleted files can be recovered in a computer system.
 ## 🚀 How to Run
 ```bash
 python gui.py
+
+## 🎯 Real-World Application
+- Data recovery tools
+- Operating system file handling
+- Digital forensics
+- Cloud storage recovery systems
+
+## 📷 Output
+
+![Create File](create_file.png)
+![Delete File](delete_file.png)
+![Recovery Success](recover_success.png)
+![Recovery Failure](recover_fail.png)
